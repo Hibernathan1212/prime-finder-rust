@@ -1,0 +1,12 @@
+[package]
+name = "prime_finder_rust"       # Unique name for your crate
+version = "0.1.0"             # Initial version
+description = "A prime finder made in Rust (originally made in c++)"
+authors = ["Nathan Thurber <nnthurber@icloud.com>"]
+edition = "2021"              # Rust edition (default is 2021)
+license = "MIT"               # Or your preferred license
+repository = "https://github.com/Hibernathan1212/prime-finder-rust.git"
+keywords = ["prime", "sieve", "math"]        # Keywords for searchability
+categories = ["algorithms", "math", "utilities"]  # Crates.io categories
+
+[dependencies]
