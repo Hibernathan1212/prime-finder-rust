@@ -7,6 +7,6 @@ edition = "2021"              # Rust edition (default is 2021)
 license = "MIT"               # Or your preferred license
 repository = "https://github.com/Hibernathan1212/prime-finder-rust.git"
 keywords = ["prime", "sieve", "math"]        # Keywords for searchability
-categories = ["algorithms", "math", "utilities"]  # Crates.io categories
+categories = ["algorithms", "mathematics", "cryptography"]  # Crates.io categories
 
 [dependencies]
